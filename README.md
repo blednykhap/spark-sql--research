@@ -1,2 +1,2 @@
-# spark-sql--research
+# spark-sql-research
 Some spark SQL research
