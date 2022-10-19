@@ -1,0 +1,8 @@
+*.class
+*.log
+*.jar
+.idea
+**/target
+**/project/project
+**/project/target
+/metastore_db
